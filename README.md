@@ -1,0 +1,2 @@
+# Communication-Bluetooth-pour-le-pilotage-d-un-servomoteur
+L’objectif de ce projet intitulé « Communication Bluetooth pour le pilotage d’un servomoteur » est d’assurer la communication entre une application ‘‘Blue term’’ et une maquette située à distance. Pour la communication, nous devons assurer d’une part la transmission des informations du portable vers la maquette tout en visualisant les informations de l’état des éléments sur le moniteur série, puis d’autre part la réception des informations sur l’application. 
